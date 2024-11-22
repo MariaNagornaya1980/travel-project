@@ -73,7 +73,30 @@ body {
   background-color: #462cb3;
   text-decoration: none;
 }
-
+.picture-1 {
+  margin: 10px;
+  border-radius: 10px;
+}
+.picture-2 {
+  margin: 10px;
+  border-radius: 10px;
+}
+.picture-3 {
+  margin: 10px;
+  border-radius: 10px;
+}
+.picture-4 {
+  margin: 10px;
+  border-radius: 10px;
+}
+.picture-5 {
+  margin: 10px;
+  border-radius: 10px;
+}
+.picture-6 {
+  margin: 10px;
+  border-radius: 10px;
+}
 section {
   max-width: 100%;
   margin: 0 auto;
